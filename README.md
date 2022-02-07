@@ -6,6 +6,10 @@ We created our backend in Python, utilizing Flask, our database in MongoDB, and 
 We hope that Score.me will lower the bar for entry into music and make it more accessible to all.
 We offer low compute time, our storage method allows for easy conversion to multiple types of outputs, we can create pdfs on demand, and we have a responsive front-end design that makes it easy for anyone to access our application.
 
+# Demos
+https://devpost.com/software/score-me?ref_content=user-portfolio&ref_feature=in_progress
+https://www.youtube.com/watch?v=jaaZM0HFJLA
+
 # Setup
 1) Create virtual environ:
 
